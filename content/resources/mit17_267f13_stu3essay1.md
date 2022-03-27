@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 17579d34-ab41-acba-ebdf-67fdeb964c08
 resourcetype: Document
 title: '17.267F13 Democracy In America: Essay 1 Student 3 Example'
 uid: 652021e8-e724-f897-1370-dd3360848374

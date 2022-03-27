@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 17579d34-ab41-acba-ebdf-67fdeb964c08
 resourcetype: Document
 title: '17.267F13 Democracy In America: Final Paper Student 1 Example'
 uid: 65763d04-de7d-66b5-1d26-6f6845a5eb9a

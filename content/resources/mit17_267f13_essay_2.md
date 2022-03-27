@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 17579d34-ab41-acba-ebdf-67fdeb964c08
 resourcetype: Document
 title: '17.267F13 Democracy In America: Essay 2'
 uid: 0ec003c0-f328-fd4b-a199-a12ecae7a4c7
