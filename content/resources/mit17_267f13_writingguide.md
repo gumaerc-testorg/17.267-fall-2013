@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-267-democracy-in-america-fall-2013/301211899d60a274663cd86b8634fa31_MIT17_267F13_WritingGuide.pdf
+file: /courses/17-267-democracy-in-america-fall-2013/301211899d60a274663cd86b8634fa31_MIT17_267F13_WritingGuide.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
