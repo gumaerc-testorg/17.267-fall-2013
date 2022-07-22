@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, required textbooks, requirements, and a statement on academic
+  integrity.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e195a5c7-c878-aaf9-0cee-b12c291f9616
 ---
@@ -28,7 +33,7 @@ Ansolabehere, Stephen, and James M. Snyder, Jr. _The End of Inequality: One Pers
 
 Gilens, Martin. _Affluence & Influence: Economic Inequality and Political Power in America_. Princeton University Press, 2012. ISBN: 9780691153971. \[Preview with [Google Books](http://books.google.com/books?id=_hxXpVlF8XYC&pg=PAfrontcover)\]
 
-Additional readings come from a variety of sources and are detailed in the [Readings]({{< baseurl >}}/pages/readings) section.
+Additional readings come from a variety of sources and are detailed in the {{% resource_link babbbf79-ae85-6002-0bc1-197bbd4aa5e6 "Readings" %}} section.
 
 Requirements
 ------------
@@ -94,7 +99,7 @@ Final paper
 
 {{< tableclose >}}
 
-For further details, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further details, please see the {{% resource_link 17579d34-ab41-acba-ebdf-67fdeb964c08 "Assignments" %}} section.
 
 Academic Integrity
 ------------------
