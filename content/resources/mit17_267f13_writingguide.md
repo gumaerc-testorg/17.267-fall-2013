@@ -5,6 +5,7 @@ file: /courses/17-267-democracy-in-america-fall-2013/301211899d60a274663cd86b863
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

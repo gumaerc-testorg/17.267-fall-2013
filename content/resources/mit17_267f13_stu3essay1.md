@@ -6,6 +6,7 @@ file: /courses/17-267-democracy-in-america-fall-2013/652021e8e724f8971370dd33608
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '17.267F13 Democracy In America: Essay 1 Student 3 Example'
 uid: 652021e8-e724-f897-1370-dd3360848374
 ---
 This file contains information regarding democracy in America: essay 1 student 3 example.
-
