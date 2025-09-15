@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains information regarding is direct democracy a perfect
   panacea?
-file: /courses/17-267-democracy-in-america-fall-2013/4d85314f73e2b5ae8371b411491d6274_MIT17_267F13Stu2Final.pdf
+file: /ol-ocw-studio-app/courses/17-267-democracy-in-america-fall-2013/4d85314f73e2b5ae8371b411491d6274_MIT17_267F13Stu2Final.pdf
+file_size: 231859
 file_type: application/pdf
 learning_resource_types:
 - Assignments

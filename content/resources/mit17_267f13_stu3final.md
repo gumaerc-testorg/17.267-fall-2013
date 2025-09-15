@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This file contains information regarding democracy in America: final
   essay student 3 example.'
-file: /courses/17-267-democracy-in-america-fall-2013/ba39ef66183c86b149632c2772b7160e_MIT17_267F13_Stu3Final.pdf
+file: /ol-ocw-studio-app/courses/17-267-democracy-in-america-fall-2013/ba39ef66183c86b149632c2772b7160e_MIT17_267F13_Stu3Final.pdf
+file_size: 1082480
 file_type: application/pdf
 learning_resource_types:
 - Assignments

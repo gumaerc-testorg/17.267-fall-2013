@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resources contains information regarding democracy in america:
   essay 2 student 1 example.'
-file: /courses/17-267-democracy-in-america-fall-2013/d8ee7434293ad7c26d71707db3f8c525_MIT17_267F13Stu1Essay2.pdf
+file: /ol-ocw-studio-app/courses/17-267-democracy-in-america-fall-2013/d8ee7434293ad7c26d71707db3f8c525_MIT17_267F13Stu1Essay2.pdf
+file_size: 570029
 file_type: application/pdf
 learning_resource_types:
 - Assignments

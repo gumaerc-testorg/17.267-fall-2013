@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-267-democracy-in-america-fall-2013/301211899d60a274663cd86b8634fa31_MIT17_267F13_WritingGuide.pdf
+file: /ol-ocw-studio-app/courses/17-267-democracy-in-america-fall-2013/301211899d60a274663cd86b8634fa31_MIT17_267F13_WritingGuide.pdf
+file_size: 161739
 file_type: application/pdf
 learning_resource_types:
 - Assignments
