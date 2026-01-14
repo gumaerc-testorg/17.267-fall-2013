@@ -13,7 +13,7 @@ uid: babbbf79-ae85-6002-0bc1-197bbd4aa5e6
 
 \[Ansolabehere\] = Ansolabehere, Stephen, and James M. Snyder, Jr. *The End of Inequality: One Person, One Vote and the Transformation of American Politics*. W. W. Norton & Company, 2008. ISBN: 9780393931037.
 
-\[Gilens\] = Gilens, Martin. *Affluence & Influence: Economic Inequality and Political Power in America*. Princeton University Press, 2012. ISBN: 9780691153971. \[Preview with {{% resource_link "4a7b6670-ee74-418f-9c47-e373189ef889" "Google Books" %}}\]
+\[Gilens\] = Gilens, Martin. *Affluence & Influence: Economic Inequality and Political Power in America*. Princeton University Press, 2012. ISBN: 9780691153971. \[Preview with [Google Books](http://books.google.com/books?id=_hxXpVlF8XYC&pg=PAfrontcover)\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -35,11 +35,11 @@ Introduction: what this class is about
 Theoretical conceptions of democratic representation
 {{< tdclose >}}{{< tdopen >}}
 
-Madison, James. "{{% resource_link "e1050262-c6f5-4691-b0a7-3f4e2759ff1d" "The Federalist, No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)" %}}." constitution.org.
+Madison, James. "[The Federalist, No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)](http://www.constitution.org/fed/federa10.htm)." constitution.org.
 
 \[Gilens\] Chapter 1: "Citizen Competence and Democratic Decision Making."
 
-Eulau, Heinz, and Paul D. Karps. "{{% resource_link "c97b11bd-82f0-4da0-be4d-223c7100e8b9" "The Puzzle of Representation: Specifying Components of Responsiveness" %}}." *Legislative Studies Quarterly* 2, no. 3 (1977): 233–54.
+Eulau, Heinz, and Paul D. Karps. "[The Puzzle of Representation: Specifying Components of Responsiveness](http://www.jstor.org/stable/439340)." *Legislative Studies Quarterly* 2, no. 3 (1977): 233–54.
 
 \[Gilens\] Chapter 3: "The Preference/Policy Link." pp. 71–3.
 
@@ -61,7 +61,7 @@ Friedman, Milton. "Introduction." In *Capitalism and Freedom: Fortieth Anniversa
 
 ———. "The Role of Government in a Free Society." Chapter 2 in *Capitalism and Freedom: Fortieth Anniversary Edition*. University of Chicago Press, 1982. ISBN: 9780226264219.
 
-Kuttner, Robert. "{{% resource_link "a51da875-79e0-441a-8b8d-06dcb13d717c" "The Limits of Markets" %}}," December 19, 2001, prospect.org.
+Kuttner, Robert. "[The Limits of Markets](http://prospect.org/article/limits-markets)," December 19, 2001, prospect.org.
 
 \[Erikson\] Chapter 3: "Microlevel Opinion: The Psychology of Opinion-Holding."
 
@@ -85,11 +85,11 @@ Measuring public opinion
 
 \[Erikson\] Chapter 7: "Group Differences in Political Opinions." pp. 190–203.
 
-Erikson, Robert S., Gerald C. Wright, and John P. McIver. "Measuring state partisanship and ideology." Chapter 2 in *Statehouse Democracy: Public Opinion and Policy in the American States*. Cambridge University Press, 1994. ISBN: 9780521424059. \[Preview with {{% resource_link "14d2dcff-0c8a-4018-a21e-f8607ee1f3cd" "Google Books" %}}\]
+Erikson, Robert S., Gerald C. Wright, and John P. McIver. "Measuring state partisanship and ideology." Chapter 2 in *Statehouse Democracy: Public Opinion and Policy in the American States*. Cambridge University Press, 1994. ISBN: 9780521424059. \[Preview with [Google Books](http://books.google.com/books?id=wh0M1be26O0C&pg=PA12=onepage)\]
 
-———. "Accounting for state differences in opinion." Chapter 3 in *Statehouse Democracy: Public Opinion and Policy in the American States*. Cambridge University Press, 1994. ISBN: 9780521424059.  \[Preview with {{% resource_link "de42e34a-1bb8-4a3b-8285-458d41945e48" "Google Books" %}}\]
+———. "Accounting for state differences in opinion." Chapter 3 in *Statehouse Democracy: Public Opinion and Policy in the American States*. Cambridge University Press, 1994. ISBN: 9780521424059.  \[Preview with [Google Books](http://books.google.com/books?id=wh0M1be26O0C&PA12#v=onepage)\]
 
-Brace, Paul, Kellie Sims-Butler, et al. "{{% resource_link "7d85bad3-d1cc-499d-8f02-b96b1d23b64b" "Public Opinion in the American States: New Perspectives Using National Survey Data" %}}." *American Journal of Political Science* 46, no. 1 (2002): 173–89.
+Brace, Paul, Kellie Sims-Butler, et al. "[Public Opinion in the American States: New Perspectives Using National Survey Data](http://www.jstor.org/stable/3088421)." *American Journal of Political Science* 46, no. 1 (2002): 173–89.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **III. Why would we expect elected officials to care about public opinion?**
@@ -107,16 +107,16 @@ The median voter & electoral accountability
 
 Mayhew, David R. "The Electoral Incentive." Chapter 1 in *Congress: The Electoral Connection*. 2nd ed. Yale University Press, 2004, pp. 13–7. ISBN: 9780300105872.
 
-Ansolabehere, Stephen, and Phillip Edward Jones. "{{% resource_link "254a9524-f574-4e0a-a5cb-6879f9211ea0" "Constituents' Responses to Congressional Roll-Call Voting" %}}." *American Journal of Political Science* 54, no. 3 (2010): 583–97.
+Ansolabehere, Stephen, and Phillip Edward Jones. "[Constituents' Responses to Congressional Roll-Call Voting](http://dx.doi.org/10.1111/j.1540-5907.2010.00448.x)." *American Journal of Political Science* 54, no. 3 (2010): 583–97.
 
-Canes-Wrone, Brandice, David W. Brady, et al. "{{% resource_link "9cfaff26-5369-40b1-9e2c-4c7b9a464013" "Out of Step, Out of Office: Electoral Accountability and House Members' Voting" %}}." *American Political Science Review* 96, no. 1 (2002): 127–40.
+Canes-Wrone, Brandice, David W. Brady, et al. "[Out of Step, Out of Office: Electoral Accountability and House Members' Voting](http://dx.doi.org/10.1017/S0003055402004276)." *American Political Science Review* 96, no. 1 (2002): 127–40.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8a
 {{< tdclose >}}{{< tdopen >}}
 Primary constituencies
 {{< tdclose >}}{{< tdopen >}}
-Brady, David W., Hahrie Han, et al. "{{% resource_link "b1962e5d-1d64-42e6-a7f2-a36494196a11" "Primary Elections and Candidate Ideology: Out of Step with the Primary Electorate?" %}}" *Legislative Studies Quarterly* 32, no. 1 (2007): 79–105.
+Brady, David W., Hahrie Han, et al. "[Primary Elections and Candidate Ideology: Out of Step with the Primary Electorate?](http://dx.doi.org/10.3162/036298007X201994)" *Legislative Studies Quarterly* 32, no. 1 (2007): 79–105.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8b
 {{< tdclose >}}{{< tdopen >}}
@@ -149,9 +149,9 @@ Unequal voter turnout
 
 Jacobson, Gary C. "Congressional Voters." Chapter 5 in *The Politics of Congressional Elections*. 8th ed. Pearson, 2012, pp. 113–6. ISBN: 9780205251766.
 
-Griffin, John D., and Brian Newman. "{{% resource_link "44f8fd8e-c38a-4a08-8dd4-9d5e98668eed" "Are Voters Better Represented?" %}}" *Journal of Politics* 67, no. 4 (2005): 1206–27.
+Griffin, John D., and Brian Newman. "[Are Voters Better Represented?](http://dx.doi.org/10.1111/j.1468-2508.2005.00357.x)" *Journal of Politics* 67, no. 4 (2005): 1206–27.
 
-Leighley, Jan E., and Jonathan Nagler. {{% resource_link "56ffb4c9-731a-4edc-8846-dfbbb8963110" "\"Who Votes Now? And Does it Matter?\" (PDF)" %}} Working Paper, 2007.
+Leighley, Jan E., and Jonathan Nagler. ["Who Votes Now? And Does it Matter?" (PDF)](http://staging.nonprofitvote.org/documents/2010/11/who-votes-now-and-does-it-matter.pdf) Working Paper, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11a
@@ -159,9 +159,9 @@ Leighley, Jan E., and Jonathan Nagler. {{% resource_link "56ffb4c9-731a-4edc-884
 Unequal policy knowledge among voters
 {{< tdclose >}}{{< tdopen >}}
 
-Gilens, Martin. "{{% resource_link "b7c811b3-96af-44a1-8cce-fda96e24b0dc" "Political Ignorance and Collective Policy Preferences" %}}." *American Political Science Review* 95, no. 2 (2001): 379–96.
+Gilens, Martin. "[Political Ignorance and Collective Policy Preferences](http://dx.doi.org/10.1017/S0003055401002222)." *American Political Science Review* 95, no. 2 (2001): 379–96.
 
-Bartels, Larry M. "{{% resource_link "64d1a9da-864e-4703-874c-3ed16f091d26" "Homer Gets a Tax Cut: Inequality and Public Policy in the American Mind" %}}." *Perspectives on Politics* 3, no. 1 (2005): 15–31.
+Bartels, Larry M. "[Homer Gets a Tax Cut: Inequality and Public Policy in the American Mind](http://dx.doi.org/10.1017/S1537592705050036)." *Perspectives on Politics* 3, no. 1 (2005): 15–31.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11b
@@ -169,9 +169,9 @@ Bartels, Larry M. "{{% resource_link "64d1a9da-864e-4703-874c-3ed16f091d26" "Hom
 Unequal financial resources
 {{< tdclose >}}{{< tdopen >}}
 
-Lessig, Lawrence. "{{% resource_link "667d6d6e-73ec-406a-8dcc-8c1e7f2fa57b" "Big Campaign Spending: Government by the 1%" %}}," *The Atlantic*, July 10, 2012.
+Lessig, Lawrence. "[Big Campaign Spending: Government by the 1%](http://www.theatlantic.com/politics/archive/2012/07/big-campaign-spending-government-by-the-1/259599/)," *The Atlantic*, July 10, 2012.
 
-Ansolabehere, Stephen, John M. de Figueiredo, et al. "{{% resource_link "8f2bc763-0cc4-4808-a4a2-8d8628ea7b7b" "Why is There so Little Money in U.S. Politics?" %}}" *Journal of Economic Perspectives* 17, no. 1 (2003): 105–30.
+Ansolabehere, Stephen, John M. de Figueiredo, et al. "[Why is There so Little Money in U.S. Politics?](http://www.jstor.org/stable/3216842)" *Journal of Economic Perspectives* 17, no. 1 (2003): 105–30.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -197,11 +197,11 @@ Olson, Mancur. "The Logic of Collective Action." Chapter 12, Section 62 in *The 
 Special interests: interest groups today
 {{< tdclose >}}{{< tdopen >}}
 
-Hall, Richard L., and Alan V. Deardorff. "{{% resource_link "f6040dd4-3a81-4510-a31b-c4809bf99ab5" "Lobbying as Legislative Subsidy" %}}." *American Political Science Review* 100, no. 1 (2006): 69-84.
+Hall, Richard L., and Alan V. Deardorff. "[Lobbying as Legislative Subsidy](http://dx.doi.org/10.1017/S0003055406062010)." *American Political Science Review* 100, no. 1 (2006): 69-84.
 
 Kersh, Rogan. "The Well-Informed Lobbyist: Information and Interest Group Lobbying." Chapter 17 in *Interest Group Politics*. 7th ed. Edited by Allan J. Cigler and Burdett A. Loomis. CQ Press, 2006. ISBN: 9781933116761.
 
-Kollman, Ken. "Introduction." Chapter 1 in *Outside Lobbying: Public Opinion & Interest Group Strategies*. Princeton University Press, 1998. ISBN: 9780691017419. \[Preview with {{% resource_link "ab68f09c-3819-468c-ac54-20be415b6a0f" "Google Books" %}}\]
+Kollman, Ken. "Introduction." Chapter 1 in *Outside Lobbying: Public Opinion & Interest Group Strategies*. Princeton University Press, 1998. ISBN: 9780691017419. \[Preview with [Google Books](http://books.google.com/books?id=OIEb7hpN4jcC&pg=PA3#v=onepage)\]
 
 Currinder, Marian, Joanne Connor Green, and M. Margaret Conway. "Interest Group Money in Elections." Chapter 8 in *Interest Group Politics*. 7th ed. Edited by Allan J. Cigler and Burdett A. Loomis. CQ Press, 2006. ISBN: 9781933116761.
 
@@ -215,9 +215,9 @@ Incumbency bias
 
 Jacobson, Gary C. "Congressional Candidates." Chapter 3 in *The Politics of Congressional Elections*. 8th ed. Pearson, 2012, pp. 27–54. ISBN: 9780205251766.
 
-King, Gary, and Andrew Gelman. "{{% resource_link "0d3c0338-6ba8-4536-8f5f-9d288e95e380" "Systemic Consequences of Incumbency Advantage in U.S. House Elections" %}}." *American Journal of Political Science* 35, no. 1 (1991): 110–38.
+King, Gary, and Andrew Gelman. "[Systemic Consequences of Incumbency Advantage in U.S. House Elections](http://www.jstor.org/stable/2111440)." *American Journal of Political Science* 35, no. 1 (1991): 110–38.
 
-Ansolabehere, Stephen, and James M. Snyder, Jr. "{{% resource_link "b0d3f203-355a-46a3-b9ab-76489f0f8197" "The Incumbency Advantage in U.S. Elections: An Analysis of State and Federal Offices, 1942–2000" %}}." *Election Law Journal* 1, no. 3 (2002): 315–38.
+Ansolabehere, Stephen, and James M. Snyder, Jr. "[The Incumbency Advantage in U.S. Elections: An Analysis of State and Federal Offices, 1942–2000](http://dx.doi.org/10.1089/153312902760137578)." *Election Law Journal* 1, no. 3 (2002): 315–38.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -225,13 +225,13 @@ Ansolabehere, Stephen, and James M. Snyder, Jr. "{{% resource_link "b0d3f203-355
 Super-majority rules in legislatures
 {{< tdclose >}}{{< tdopen >}}
 
-Alberts, Susan, Chris Warshaw, and Barry R. Weingast. "Democratization and Countermajoritarian Institutions: Power and Constitutional Design In Self-Enforcing Democracy." Chapter 4 in *Comparative Constitutional Design: Comparative Constitutional Law and Policy*. Edited by Tom Ginsburg. Cambridge University Press. 2012. ISBN: 9781107020566. \[Preview with {{% resource_link "829d55d4-5822-42b8-930d-5869705eaa6c" "Google Books" %}}\]
+Alberts, Susan, Chris Warshaw, and Barry R. Weingast. "Democratization and Countermajoritarian Institutions: Power and Constitutional Design In Self-Enforcing Democracy." Chapter 4 in *Comparative Constitutional Design: Comparative Constitutional Law and Policy*. Edited by Tom Ginsburg. Cambridge University Press. 2012. ISBN: 9781107020566. \[Preview with [Google Books](http://books.google.com/books?id=KkHzpaO_2KgC&pg=PA69#v=onepage)\]
 
-Krehbiel, Keith. "Basics." Chapter 1 in *Pivotal Politics: A Theory of U.S. Lawmaking*. University of Chicago Press, 1998. ISBN: 9780226452722. \[Preview with {{% resource_link "69382bf5-8be2-4d73-9ae2-9f686dc68c40" "Google Books" %}}\]
+Krehbiel, Keith. "Basics." Chapter 1 in *Pivotal Politics: A Theory of U.S. Lawmaking*. University of Chicago Press, 1998. ISBN: 9780226452722. \[Preview with [Google Books](http://books.google.com/books?id=UL5-5GW9kQkC&pg=PA3#v=onepage)\]
 
-———. "A Theory." Chapter 2 in *Pivotal Politics: A Theory of U.S. Lawmaking*. University of Chicago Press, 1998. ISBN: 9780226452722. \[Preview with {{% resource_link "5909256c-d117-4455-9ea9-cc0830f250be" "Google Books" %}}\]
+———. "A Theory." Chapter 2 in *Pivotal Politics: A Theory of U.S. Lawmaking*. University of Chicago Press, 1998. ISBN: 9780226452722. \[Preview with [Google Books](http://books.google.com/books?id=UL5-5GW9kQkC&pg=PA20#v=onepage)\]
 
-———. "Gridlock." Chapter 3 in *Pivotal Politics: A Theory of U.S. Lawmaking*. University of Chicago Press, 1998. ISBN: 9780226452722. \[Preview with {{% resource_link "79ebd105-32f1-4922-a8b4-144cd6d712b9" "Google Books" %}}\]
+———. "Gridlock." Chapter 3 in *Pivotal Politics: A Theory of U.S. Lawmaking*. University of Chicago Press, 1998. ISBN: 9780226452722. \[Preview with [Google Books](http://books.google.com/books?id=UL5-5GW9kQkC&pg=PA51#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **V. Representation of opinions and interests**
@@ -245,7 +245,7 @@ Do policy outcomes represent the views of voters?
 
 \[Erikson\] Chapter 11: "Public Opinion and the Performance of Democracy." pp. 322–32.
 
-Erikson, Robert S., Gerald C. Wright, and John P. McIver. "Public opinion and policy in the American states." Chapter 4 in *Statehouse Democracy: Public Opinion and Policy in the American States*. Cambridge University Press, 1994. ISBN: 9780521424059. \[Preview with {{% resource_link "de42e34a-1bb8-4a3b-8285-458d41945e48" "Google Books" %}}\]
+Erikson, Robert S., Gerald C. Wright, and John P. McIver. "Public opinion and policy in the American states." Chapter 4 in *Statehouse Democracy: Public Opinion and Policy in the American States*. Cambridge University Press, 1994. ISBN: 9780521424059. \[Preview with [Google Books](http://books.google.com/books?id=wh0M1be26O0C&PA12#v=onepage)\]
 
 \[Gilens\] Chapter 3: "The Preference/Policy Link." pp. 73–7.
 
@@ -261,9 +261,9 @@ Bartels, Larry M. "Economic Inequality and Political Representation." Chapter 9 
 
 \[Gilens\] Chapter 3: "The Preference/Policy Link." pp. 88–96.
 
-———. "Policy Consequences of Representational Inequality." Chapter 9 in *Who Gets Represented?* Edited by Peter K. Enns and Christopher Wlezien. Russell Sage Foundation, 2011. ISBN: 9780871542427. \[Preview with {{% resource_link "ca4517f6-fe95-4ec6-9205-7c33639c888d" "Google Books" %}}\]
+———. "Policy Consequences of Representational Inequality." Chapter 9 in *Who Gets Represented?* Edited by Peter K. Enns and Christopher Wlezien. Russell Sage Foundation, 2011. ISBN: 9780871542427. \[Preview with [Google Books](http://books.google.com/books?id=3Bba2mdB4coC&pg=PA247#v=onepage)\]
 
-Brunner, Eric, Stephen L. Ross, et al. {{% resource_link "9aa4e472-53f6-49ea-8e31-87fb35981e3d" "\"Does Less Income Mean Less Representation?\"(PDF)" %}} NBER Working Paper, 2012.
+Brunner, Eric, Stephen L. Ross, et al. ["Does Less Income Mean Less Representation?"(PDF)](http://economics.yale.edu/sites/default/files/files/Faculty/washington/less-income.pdf) NBER Working Paper, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17b
@@ -279,7 +279,7 @@ Are certain groups systematically over or under-represented in the policy proces
 One-person, one-vote
 {{< tdclose >}}{{< tdopen >}}
 
-Cox, Gary W., and Jonathan N. Katz. "Part I: Introduction." In *Elbridge Gerry's Salamander: The Electoral Consequences of the Reapportionment Revolution*. Cambridge University Press, 2002. ISBN: 9780521001540. \[Preview with {{% resource_link "ee1b257e-f003-475f-b2fd-a4bf8eb22b8e" "Google Books" %}}\]
+Cox, Gary W., and Jonathan N. Katz. "Part I: Introduction." In *Elbridge Gerry's Salamander: The Electoral Consequences of the Reapportionment Revolution*. Cambridge University Press, 2002. ISBN: 9780521001540. \[Preview with [Google Books](http://books.google.com/books?id=UefKTQCM1H8C&pg=PA1#v=onepage)\]
 
 \[Ansolabehere\] Part III: "Politics Remade." pp. 187–240.
 
@@ -293,11 +293,11 @@ Johnson, Janet Buttolph, and H. T. Reynolds. "Nonexperimental Designs." In *Poli
 Term limits
 {{< tdclose >}}{{< tdopen >}}
 
-Carey, John M. "The electoral disconnection?" Chapter 1 in *Term Limits and Legislative Representation*. Cambridge University Press, 1998. ISBN: 9780521646017. \[Preview with {{% resource_link "67dca5d9-8663-4928-a08f-01616aa1f6dd" "Google Books" %}}\]
+Carey, John M. "The electoral disconnection?" Chapter 1 in *Term Limits and Legislative Representation*. Cambridge University Press, 1998. ISBN: 9780521646017. \[Preview with [Google Books](http://books.google.com/books?id=lPGdEQwXXjQC&pg=PA3#v=onepage)\]
 
-Kousser, Thad. "Introduction." Chapter 1 in *Term Limits and the Dismantling of State Legislative Professionalism*. Cambridge University Press, 2005. ISBN: 9780521548731. \[Preview with {{% resource_link "42845db4-2dce-4f29-a981-e7ae5f4618b2" "Google Books" %}}\]
+Kousser, Thad. "Introduction." Chapter 1 in *Term Limits and the Dismantling of State Legislative Professionalism*. Cambridge University Press, 2005. ISBN: 9780521548731. \[Preview with [Google Books](http://books.google.com/books?id=BWvxZJg4WAoC&pg=PA3#v=onepage)\]
 
-———. "The Production of Policy Innovation." Chapter 7 in *Term Limits and the Dismantling of State Legislative Professionalism*. Cambridge University Press, 2005. ISBN: 9780521548731. \[Preview with {{% resource_link "f0b3ef58-e58b-4a2c-a7d5-63190438ed91" "Google Books" %}}\]
+———. "The Production of Policy Innovation." Chapter 7 in *Term Limits and the Dismantling of State Legislative Professionalism*. Cambridge University Press, 2005. ISBN: 9780521548731. \[Preview with [Google Books](http://books.google.com/books?id=BWvxZJg4WAoC&pg=PA177#v=onepage)\]
 
 ———. "Term Limits and State Legislatures." Chapter 8 in *Democracy in the States: Experiments in Election Reform*. Edited by Bruce E. Cain, Todd Donovan, and Caroline J. Tolbert. Brookings Institution Press, 2008. ISBN: 9780815713371.
 
@@ -307,11 +307,11 @@ Kousser, Thad. "Introduction." Chapter 1 in *Term Limits and the Dismantling of 
 Direct democracy
 {{< tdclose >}}{{< tdopen >}}
 
-Bowler, Shaun, and Todd Donovan. "The Initiative Process." Chapter 5 in *Politics in the American States: A Comparative Analysis*. CQ Press, 2012. ISBN: 9781608719983. \[Preview with {{% resource_link "f29c7b9d-1b2f-433a-b28a-1a8431d0c2f4" "Google Books" %}}\]
+Bowler, Shaun, and Todd Donovan. "The Initiative Process." Chapter 5 in *Politics in the American States: A Comparative Analysis*. CQ Press, 2012. ISBN: 9781608719983. \[Preview with [Google Books](http://books.google.com/books?id=uvZCP54KLgIC&pg=PA154#v=onepage&q&f=false)\]
 
-Gerber, Elisabeth R. "{{% resource_link "2154f922-9018-4211-9df7-a64fbf465d8d" "Legislative Response to the Threat of Popular Initiatives" %}}." *American Journal of Political Science* 40, no. 1 (1996): 99–128.
+Gerber, Elisabeth R. "[Legislative Response to the Threat of Popular Initiatives](http://www.jstor.org/stable/2111696)." *American Journal of Political Science* 40, no. 1 (1996): 99–128.
 
-Lupia, Arthur and John G. Matsusaka. "{{% resource_link "22b97a5b-c52e-47f3-ba2c-2d16ed9b865d" "Direct Democracy: New Approaches to Old Questions" %}}." *Annual Review of Political Science* 7 (2004): 463–82.
+Lupia, Arthur and John G. Matsusaka. "[Direct Democracy: New Approaches to Old Questions](http://dx.doi.org/10.1146/annurev.polisci.7.012003.104730)." *Annual Review of Political Science* 7 (2004): 463–82.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -319,11 +319,11 @@ Lupia, Arthur and John G. Matsusaka. "{{% resource_link "22b97a5b-c52e-47f3-ba2c
 Elected judges
 {{< tdclose >}}{{< tdopen >}}
 
-Huber, Gregory A., and Sanford C. Gordon. "{{% resource_link "17057c79-c6c1-49b9-b9ce-c0c40cb975ee" "Accountability and Coercion: Is Justice Blind when It Runs for Office?" %}}" *American Journal of Political Science* 48, no. 2 (2004): 247–63.
+Huber, Gregory A., and Sanford C. Gordon. "[Accountability and Coercion: Is Justice Blind when It Runs for Office?](http://dx.doi.org/10.1111/j.0092-5853.2004.00068.x)" *American Journal of Political Science* 48, no. 2 (2004): 247–63.
 
-Cann, Damon M. "{{% resource_link "fe15cf2a-0b62-49bf-aa7d-ff5f8798527c" "Justice for Sale? Campaign Contributions and Judicial Decisionmaking" %}}." *State Politics & Policy Quarterly* 7, no. 3 (2007): 281–97.
+Cann, Damon M. "[Justice for Sale? Campaign Contributions and Judicial Decisionmaking](http://dx.doi.org/10.1177/153244000700700303)." *State Politics & Policy Quarterly* 7, no. 3 (2007): 281–97.
 
-Brace, Paul and Brent D. Boyea. "{{% resource_link "bb33393c-728e-4165-94ad-ddc7a2bfc1e9" "State Public Opinion, the Death Penalty, and the Practice of Electing Judges" %}}." *American Journal of Political Science* 52, no. 2 (2008): 360–72.
+Brace, Paul and Brent D. Boyea. "[State Public Opinion, the Death Penalty, and the Practice of Electing Judges](http://dx.doi.org/10.1111/j.1540-5907.2008.00317.x)." *American Journal of Political Science* 52, no. 2 (2008): 360–72.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -333,9 +333,9 @@ Non-partisan redistricting
 
 Cain, Bruce. E. Chapter 9 in *The Reapportionment Puzzle*. University of California Press, 1984. ISBN: 9780520050280.
 
-Chen, Jowei, and Jonathan Rodden. "{{% resource_link "07ec22c3-811d-4ac1-acfd-72eeca2e4b40" "Unintentional Gerrymandering: Political Geography and Electoral Bias in Legislatures" %}}." *Quarterly Journal of Political Science* 8, no. 3 (2013): 239–69.
+Chen, Jowei, and Jonathan Rodden. "[Unintentional Gerrymandering: Political Geography and Electoral Bias in Legislatures](http://dx.doi.org/10.1561/100.00012033)." *Quarterly Journal of Political Science* 8, no. 3 (2013): 239–69.
 
-Goedert, Nicholas. "{{% resource_link "bdfaaee3-8867-438e-931c-7da9e95e5be3" "Gerrymandering or Geography? How Democrats Won the Popular Vote but Lost the Congress in 2012" %}}." Working Paper, 2014.
+Goedert, Nicholas. "[Gerrymandering or Geography? How Democrats Won the Popular Vote but Lost the Congress in 2012](http://dx.doi.org/10.1177/2053168014528683)." Working Paper, 2014.
 
 McDonald, Michael P. "Legislative Redistricting." Chapter 10 in *Democracy in the States: Experiments in Election Reform*. Edited by Bruce E. Cain, Todd Donovan, and Caroline J. Tolbert. Brookings Institution Press, 2008. ISBN: 9780815713371.
 
@@ -345,11 +345,11 @@ McDonald, Michael P. "Legislative Redistricting." Chapter 10 in *Democracy in th
 Changing the primary process
 {{< tdclose >}}{{< tdopen >}}
 
-Gerber, Elisabeth R., and Rebecca B. Morton. "{{% resource_link "3d0494f1-5d4f-4592-a014-8552ebae6f21" "Primary Election Systems and Representation" %}}." *Journal of Law, Economics, & Organization* 14, no. 2 (1998): 304–24.
+Gerber, Elisabeth R., and Rebecca B. Morton. "[Primary Election Systems and Representation](http://dx.doi.org/10.1093/jleo/14.2.304)." *Journal of Law, Economics, & Organization* 14, no. 2 (1998): 304–24.
 
-Kaufmann, Karen M., James G. Gimpel, et al. "{{% resource_link "1cf2c13a-e438-4eda-b3d4-847195930301" "A Promise Fulfilled? Open Primaries and Representation" %}}." *Journal of Politics* 65, no. 2 (2003): 457–76.
+Kaufmann, Karen M., James G. Gimpel, et al. "[A Promise Fulfilled? Open Primaries and Representation](http://onlinelibrary.wiley.com/doi/10.1111/1468-2508.t01-2-00009/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+Saturday%2C+15+March+from+10%3A00-12%3A00+GMT+%2806%3A00-08%3A00+EDT%29+for+essential+maintenance)." *Journal of Politics* 65, no. 2 (2003): 457–76.
 
-McGee, Eric, Seth Masket, et al. {{% resource_link "d85d1044-1bbe-409b-bc0a-f7cbc53d051f" "\"A Primary Cause of Partisanship? Nomination Systems and Legislator Ideology.\" (PDF)" %}} Working Paper, 2011.
+McGee, Eric, Seth Masket, et al. ["A Primary Cause of Partisanship? Nomination Systems and Legislator Ideology." (PDF)](http://www.princeton.edu/~nmccarty/PrimarySystems.pdf) Working Paper, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -357,13 +357,13 @@ McGee, Eric, Seth Masket, et al. {{% resource_link "d85d1044-1bbe-409b-bc0a-f7cb
 Campaign finance rules
 {{< tdclose >}}{{< tdopen >}}
 
-Hogan, Robert E. "{{% resource_link "e3b042d0-c926-4c51-b758-b2443c8e7c38" "The Costs of Representation in State Legislatures: Explaining Variation in Campaign Spending" %}}." *Social Science Quarterly* 81, no. 4 (2000): 941–56.
+Hogan, Robert E. "[The Costs of Representation in State Legislatures: Explaining Variation in Campaign Spending](http://connection.ebscohost.com/c/articles/4100139/costs-representation-state-legislatures-explaining-variations-campaign-spending)." *Social Science Quarterly* 81, no. 4 (2000): 941–56.
 
 \[Gilens\] Chapter 8: "Money and American Politics."
 
-Skaggs, Adam, and Fred Wertheimer. "{{% resource_link "584ba357-1bba-4d48-85d0-398a998e9822" "Empowering Small Donors in Elections" %}}." August 22, 2012. brennancenter.org.
+Skaggs, Adam, and Fred Wertheimer. "[Empowering Small Donors in Elections](http://www.brennancenter.org/publication/empowering-small-donors-federal-elections)." August 22, 2012. brennancenter.org.
 
-Stratmann, Thomas, and Francisco J. Aparicio-Castillo. "{{% resource_link "e9d7d38b-45ea-461d-898e-8d802b1a6b89" "Competition policy for elections: Do campaign contribution limits matter?" %}}" *Public Choice* 127, no. 1–2 (2006): 177–206.
+Stratmann, Thomas, and Francisco J. Aparicio-Castillo. "[Competition policy for elections: Do campaign contribution limits matter?](http://dx.doi.org/10.1007/s11127-006-1252-x)" *Public Choice* 127, no. 1–2 (2006): 177–206.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
@@ -371,10 +371,10 @@ Stratmann, Thomas, and Francisco J. Aparicio-Castillo. "{{% resource_link "e9d7d
 Convenience voting
 {{< tdclose >}}{{< tdopen >}}
 
-Gronke, Paul, Eva Galanes-Rosenbaum, et al. "{{% resource_link "5e762990-5815-485e-8df0-9a0fb028c058" "Convenience Voting" %}}." *Annual Review of Political Science* 11 (2008): 437–55.
+Gronke, Paul, Eva Galanes-Rosenbaum, et al. "[Convenience Voting](http://dx.doi.org/10.1146/annurev.polisci.11.053006.190912)." *Annual Review of Political Science* 11 (2008): 437–55.
 
-Meredith, Marc, and Neil Malhotra. {{% resource_link "79a41926-fd9a-4685-8023-3b55bfcf26e1" "\"Convenience Voting Can Affect Election Outcomes.\" (PDF)" %}}
+Meredith, Marc, and Neil Malhotra. ["Convenience Voting Can Affect Election Outcomes." (PDF)](http://www.sas.upenn.edu/~marcmere/workingpapers/OctoberSurprise.pdf)
 
-Springer, Melanie J. "{{% resource_link "aa3f65c3-12e1-45ca-bb6a-711ad5859c07" "State Electoral Institutions and Voter Turnout In Presidential Elections, 1920–2000" %}}." *State Politics & Policy Quarterly* 12, no. 3 (2012): 252–83.
+Springer, Melanie J. "[State Electoral Institutions and Voter Turnout In Presidential Elections, 1920–2000](http://dx.doi.org/10.1177/1532440012442909)." *State Politics & Policy Quarterly* 12, no. 3 (2012): 252–83.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
